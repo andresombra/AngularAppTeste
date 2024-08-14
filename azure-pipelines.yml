@@ -29,6 +29,8 @@ steps:
   inputs:
     restoreSolution: '**/*.sln'
 
+- checkout: self
+
 # Build da solução
 - task: VSBuild@1
   inputs:
