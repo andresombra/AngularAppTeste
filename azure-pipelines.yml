@@ -20,10 +20,10 @@ steps:
 - task: SonarCloudPrepare@1
   inputs:
     SonarCloud: 'SonarCloud'
-    organization: 'andresombranet'
+    organization: 'andresombra'
     scannerMode: 'MSBuild'
     projectKey: '9da262994d5497b3ba35688491d3ad0ab25c8ccc'
-    projectName: 'andresombra'
+    projectName: 'AngularAppTeste'
 
 # Analisar o código com SonarCloud
 - task: SonarCloudAnalyze@2
