@@ -1,0 +1,51 @@
+# Nome do pipeline
+name: $(Build.DefinitionName)_$(Year:yyyy).$(Month).$(DayOfMonth)$(Rev:.r)
+
+# Disparadores automáticos
+trigger:
+- master  # ou o nome da sua branch principal
+
+# Pool de agentes (Usar o pool de agentes hospedado no Azure)
+pool:
+  vmImage: 'windows-latest'
+
+# Variáveis
+variables:
+  buildConfiguration: 'Release'
+
+# Passos do pipeline
+steps:
+# Baixar o código do repositório
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '8.x' # Substitua pela versão do .NET que está usando
+    installationPath: $(Agent.ToolsDirectory)/dotnet
+
+# Restaurar pacotes NuGet
+- task: NuGetToolInstaller@1
+
+- task: NuGetCommand@2
+  inputs:
+    restoreSolution: '**/*.sln'
+
+# Build da solução
+- task: VSBuild@1
+  inputs:
+    solution: '**/*.sln'
+    msbuildArgs: '/p:Configuration=$(buildConfiguration)'
+    platform: 'Any CPU'
+    configuration: '$(buildConfiguration)'
+
+# Testes unitários
+- task: VSTest@2
+  inputs:
+    platform: 'Any CPU'
+    configuration: '$(buildConfiguration)'
+
+# Publicar artefatos
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
