@@ -16,24 +16,6 @@ variables:
 # Passos do pipeline
 steps:
 
-- task: SonarCloudPrepare@2
-  inputs:
-    SonarCloud: 'SonarCloud'
-    organization: 'andresombra'
-    scannerMode: 'MSBuild'
-    projectKey: '67aa08e18c4df9652a36eb9908de9d09607cda24'
-    projectName: 'AngularAppTeste'
-
-# Analisar o código com SonarCloud
-- task: SonarCloudAnalyze@1
-  inputs:
-    jdkversion: 'JAVA_HOME_21_X64'
-
-# Publicar resultados da análise para o SonarCloud
-- task: SonarCloudPublish@1
-  inputs:
-    pollingTimeoutSec: '300'
-
 # Baixar o código do repositório
 - task: DotNetCoreCLI@2
   displayName: 'Build Project'
