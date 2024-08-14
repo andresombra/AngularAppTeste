@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\imovel\\imovel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\imovel\\imovel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\services\\imovel.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\services\\imovel.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\services\\imposto.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\services\\imposto.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12345656:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:834683709:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-12T22:21:07.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cliente.service.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\services\\cliente\\cliente.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T20:29:59.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "imposto.service.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\imposto.service.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\services\\imposto.service.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\imposto.service.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\services\\imposto.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T20:07:43.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "imovel.service.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\imovel.service.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\services\\imovel.service.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\services\\imovel.service.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\services\\imovel.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T18:55:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T18:26:25.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T21:22:46.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imovel.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T21:14:17.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imovel.component.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\imovel\\imovel.component.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\imovel\\imovel.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-06T21:14:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularappteste.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-06T21:11:50.999Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
