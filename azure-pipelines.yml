@@ -20,7 +20,7 @@ steps:
 - task: SonarCloudPrepare@1
   inputs:
     SonarCloud: 'SonarCloud'
-    organization: 'Andre Sombra'
+    organization: 'andresombranet'
     scannerMode: 'MSBuild'
     projectKey: '9da262994d5497b3ba35688491d3ad0ab25c8ccc'
     projectName: 'AngularAppTeste'
