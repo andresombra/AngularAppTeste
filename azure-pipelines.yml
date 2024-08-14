@@ -20,7 +20,7 @@ steps:
 - task: SonarCloudPrepare@1
   inputs:
     SonarCloud: 'SonarCloud'
-    organization: 'andresombra'
+    organization: 'Andre Sombra'
     scannerMode: 'MSBuild'
     projectKey: '9da262994d5497b3ba35688491d3ad0ab25c8ccc'
     projectName: 'AngularAppTeste'
@@ -32,7 +32,6 @@ steps:
 - task: SonarCloudPublish@1
   inputs:
     pollingTimeoutSec: '300'
-
 
 # Baixar o código do repositório
 - task: DotNetCoreCLI@2
