@@ -15,6 +15,25 @@ variables:
 
 # Passos do pipeline
 steps:
+
+# Preparar o SonarCloud
+- task: SonarCloudPrepare@1
+  inputs:
+    SonarCloud: 'SonarCloud'
+    organization: 'andresombranet'
+    scannerMode: 'MSBuild'
+    projectKey: '9da262994d5497b3ba35688491d3ad0ab25c8ccc'
+    projectName: 'andresombra'
+
+# Analisar o código com SonarCloud
+- task: SonarCloudAnalyze@2
+
+# Publicar resultados da análise para o SonarCloud
+- task: SonarCloudPublish@1
+  inputs:
+    pollingTimeoutSec: '300'
+
+
 # Baixar o código do repositório
 - task: DotNetCoreCLI@2
   displayName: 'Build Project'
