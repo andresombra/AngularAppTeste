@@ -24,6 +24,8 @@ steps:
     projectKey: '67aa08e18c4df9652a36eb9908de9d09607cda24'
     projectName: 'AngularAppTeste'
 
+
+
 # Baixar o código do repositório
 - task: DotNetCoreCLI@2
   displayName: 'Build Project'
@@ -45,6 +47,14 @@ steps:
     msbuildArgs: '/p:Configuration=$(buildConfiguration)'
     platform: 'Any CPU'
     configuration: '$(buildConfiguration)'
+
+# Analisar o código com SonarCloud
+- task: SonarCloudAnalyze@1
+
+# Publicar resultados da análise para o SonarCloud
+- task: SonarCloudPublish@1
+  inputs:
+    pollingTimeoutSec: '300'
 
 # Publicar artefatos
 - task: PublishBuildArtifacts@1
