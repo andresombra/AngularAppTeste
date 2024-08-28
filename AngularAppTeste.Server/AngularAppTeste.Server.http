@@ -2,5 +2,4 @@
 
 GET {{AngularAppTeste.Server_HostAddress}}/weatherforecast/
 Accept: application/json
-
 ###

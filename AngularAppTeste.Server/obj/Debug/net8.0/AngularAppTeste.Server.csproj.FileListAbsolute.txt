@@ -33,3 +33,5 @@ C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\obj\Debug\net8
 C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\obj\Debug\net8.0\AngularAppTeste.Server.pdb
 C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\obj\Debug\net8.0\AngularAppTeste.Server.genruntimeconfig.cache
 C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\obj\Debug\net8.0\ref\AngularAppTeste.Server.dll
+C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\obj\Debug\net8.0\AngularAppTeste.Server.sourcelink.json
+C:\Users\User\source\repos\AngularAppTeste\AngularAppTeste.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
