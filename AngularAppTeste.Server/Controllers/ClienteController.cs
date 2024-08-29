@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AngularAppTeste.Server.Dominio.response;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -21,9 +22,11 @@ namespace AngularAppTeste.Server.Controllers
             {
                 resp.sucesso = true;
 
-                cliente.Nome = "Pedro Paulo";
+                resp.Nome = cliente.Nome;
+                resp.Endereco = cliente.Endereco;
+                resp.Cidade = cliente.Cidade;
+                resp.Estado = cliente.Estado;
 
-                resp.dados = JsonConvert.SerializeObject(cliente);
                 return resp;
             }
             catch(Exception ex)
@@ -43,12 +46,6 @@ namespace AngularAppTeste.Server.Controllers
         public string Cidade { get; set; } = string.Empty;
 
     }
-    public class ClienteResponse
-    {
-        public bool sucesso { get; set; }
-        public string mensagem { get; set; } = string.Empty;
-        public object dados { get; set; } = string.Empty;
-        
-    };
+   
 }
 

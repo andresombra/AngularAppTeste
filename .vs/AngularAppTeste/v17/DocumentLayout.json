@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\imovel\\imovel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\imovel\\imovel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\imovel\\imovel.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\dominio\\response\\clienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\dominio\\response\\clienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\cliente.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -23,36 +23,24 @@
       "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\cliente\\cliente.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\angularappteste.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\angularappteste.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.server\\angularappteste.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9238A3B9-F7B8-4912-8B75-6C8D1071A5A3}|AngularAppTeste.Server\\AngularAppTeste.Server.csproj|solutionrelative:angularappteste.server\\angularappteste.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\models\\cliente.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\models\\cliente.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|c:\\users\\user\\source\\repos\\angularappteste\\angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B3443DBD-525B-4186-BAF6-48FFEAF4A773}|angularappteste.client\\angularappteste.client.esproj|solutionrelative:angularappteste.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,41 +74,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Program.cs",
-              "RelativeDocumentMoniker": "AngularAppTeste.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Program.cs",
-              "RelativeToolTip": "AngularAppTeste.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClienteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Dominio\\response\\ClienteResponse.cs",
+              "RelativeDocumentMoniker": "AngularAppTeste.Server\\Dominio\\response\\ClienteResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Dominio\\response\\ClienteResponse.cs",
+              "RelativeToolTip": "AngularAppTeste.Server\\Dominio\\response\\ClienteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T14:55:28.479Z",
+              "WhenOpened": "2024-08-29T22:18:30.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "AngularAppTeste.Server\\Models\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "AngularAppTeste.Server\\Models\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:05:19.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AngularAppTeste.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\AngularAppTeste.Server.csproj",
+              "RelativeDocumentMoniker": "AngularAppTeste.Server\\AngularAppTeste.Server.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\AngularAppTeste.Server.csproj",
+              "RelativeToolTip": "AngularAppTeste.Server\\AngularAppTeste.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T22:04:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "AngularAppTeste.Server\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "AngularAppTeste.Server\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T20:41:50.725Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.config.ts",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.config.ts",
-              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app.config.ts",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.config.ts",
-              "RelativeToolTip": "angularappteste.client\\src\\app\\app.config.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-19T22:01:44.502Z"
             },
             {
               "$type": "Document",
@@ -130,14 +130,14 @@
               "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\cliente.service.ts",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\cliente.service.ts",
               "RelativeToolTip": "angularappteste.client\\src\\app\\cliente.service.ts",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-15T20:39:23.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\app.module.ts",
@@ -145,8 +145,7 @@
               "RelativeToolTip": "angularappteste.client\\src\\app\\app.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-16T14:06:29.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T14:06:29.757Z"
             },
             {
               "$type": "Document",
@@ -156,20 +155,20 @@
               "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\cliente\\cliente.component.ts",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\cliente\\cliente.component.ts",
               "RelativeToolTip": "angularappteste.client\\src\\app\\cliente\\cliente.component.ts",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-16T13:40:22.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "imovel.component.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html",
               "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\imovel\\imovel.component.html",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.html",
               "RelativeToolTip": "angularappteste.client\\src\\app\\imovel\\imovel.component.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-08-06T21:14:11.967Z",
               "EditorCaption": ""
@@ -182,7 +181,7 @@
               "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
               "RelativeToolTip": "angularappteste.client\\src\\app\\imovel\\imovel.component.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAA2wDUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA2wC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-06T21:14:17.948Z",
               "EditorCaption": ""
@@ -198,55 +197,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-19T19:36:30.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Models\\ClienteModel.cs",
-              "RelativeDocumentMoniker": "AngularAppTeste.Server\\Models\\ClienteModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Models\\ClienteModel.cs",
-              "RelativeToolTip": "AngularAppTeste.Server\\Models\\ClienteModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T19:49:40.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "AngularAppTeste.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "AngularAppTeste.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:08:04.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AngularAppTeste.Server.http",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\AngularAppTeste.Server.http",
-              "RelativeDocumentMoniker": "AngularAppTeste.Server\\AngularAppTeste.Server.http",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\AngularAppTeste.Server\\AngularAppTeste.Server.http",
-              "RelativeToolTip": "AngularAppTeste.Server\\AngularAppTeste.Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-16T15:04:33.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "cliente.model.ts",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\models\\cliente.model.ts",
-              "RelativeDocumentMoniker": "angularappteste.client\\src\\app\\models\\cliente.model.ts",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AngularAppTeste\\angularappteste.client\\src\\app\\models\\cliente.model.ts",
-              "RelativeToolTip": "angularappteste.client\\src\\app\\models\\cliente.model.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-16T14:48:39.258Z"
             }
           ]
         },

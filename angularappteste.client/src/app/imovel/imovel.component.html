@@ -27,14 +27,14 @@
 </div>
 
 <div *ngIf="cliente$ | async as cliente; else carregando">
-    <h1>{{ cliente.sucesso }}</h1>
+    <p>status: {{ cliente.sucesso }}</p>
     <p>Mensagem: {{ cliente.mensagem }}</p>
-    <p>Dados do Cliente: {{ cliente.dados }}</p>
+    <p>Nome: {{ cliente.nome }}</p>
 </div>
 
-<div>
-    <span>Resultado: {{campo}}</span>
-</div>
+
+
+
 
 <ng-template #carregando>
     <p>Carregando...</p>

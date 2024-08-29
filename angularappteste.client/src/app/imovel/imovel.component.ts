@@ -13,6 +13,7 @@ import { ClienteModel } from '../models/cliente.model';
 export class ImovelComponent {
   Cliente: ClienteRequest = new ClienteRequest();
   cliente$: Observable<ResponseDto> = new Observable<ResponseDto>();
+  clienteModel: ClienteModel = new ClienteModel();
   constructor(private imovelService: ImovelService, private impostoService: ImpostoService, private clienteService: ClienteService) { }
 
   ValorImovel: number = 0;
@@ -24,7 +25,7 @@ export class ImovelComponent {
 
   retorno!: ResponseDto;
 
-  campo: string = ""
+  campo?: string;
 
 
   calcular() {
@@ -39,6 +40,16 @@ export class ImovelComponent {
   salvar() {
 
     this.cliente$ = this.clienteService.salvar(this.Cliente);
+
+    //this.cliente$.subscribe({
+    //  next: (cli: ResponseDto) => {
+    //    const clienteData = cli.dados as ClienteModel;
+        
+    //  },
+    //  error: (err) => {
+    //    console.error('Erro na requisição:', err);
+    //  }
+    //});
 
     //this.cliente$.subscribe({
     //  next: (response: ResponseDto) => {

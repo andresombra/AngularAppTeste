@@ -14,7 +14,10 @@ export class ClienteRequest {
 export interface ResponseDto {
   sucesso: boolean;
   mensagem?: string;
-  dados?: object;
+  nome?: string;
+  endereco?: number;
+  estado?: string;
+  cidade?: string;
 }
 const headers = new HttpHeaders({
   'Content-Type': 'application/json'
