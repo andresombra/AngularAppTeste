@@ -6,11 +6,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ImovelComponent } from './imovel/imovel.component';
 import { FormsModule } from '@angular/forms';
+import { ClienteComponent } from './cliente/cliente.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ImovelComponent
+    ImovelComponent,
+    ClienteComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,

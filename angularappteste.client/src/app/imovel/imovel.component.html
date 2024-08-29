@@ -1,16 +1,41 @@
 
-<form (ngSubmit)="calcular()" >
+<form (ngSubmit)="calcular()">
+
     <input type="number" id="valorImovel" name="valorImovel" [(ngModel)]="ValorImovel" />
     <button type="submit">Calcular</button>
+</form>
+
+<form (ngSubmit)="salvar()">
+
+    <input type="text" id="cliente.nome" name="cliente.nome" [(ngModel)]="Cliente.nome" value="aaa" />
+    <input type="text" id="cliente.endereco" name="cliente.endereco" [(ngModel)]="Cliente.endereco" value="bbb" />
+    <input type="text" id="cliente.estado" name="cliente.estado" [(ngModel)]="Cliente.estado" value="ccc" />
+    <input type="text" id="cliente.cidade" name="cliente.cidade" [(ngModel)]="Cliente.cidade" value="ddd" />
+    <button type="submit">Salvar</button>
 </form>
 
 <div>
     <span>Resultado: {{resultado}}</span>
 </div>
+
 <div>
     <span>Resultado: {{Nome}}</span>
 </div>
+
 <div>
     <span>Resultado: {{Imposto}}</span>
 </div>
 
+<div *ngIf="cliente$ | async as cliente; else carregando">
+    <p>status: {{ cliente.sucesso }}</p>
+    <p>Mensagem: {{ cliente.mensagem }}</p>
+    <p>Nome: {{ cliente.nome }}</p>
+</div>
+
+
+
+
+
+<ng-template #carregando>
+    <p>Carregando...</p>
+</ng-template>
